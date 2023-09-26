@@ -1,5 +1,32 @@
 ﻿@{
-    ViewData["Title"] = "Colaboradores";
+    ViewData["Title"] = "Novo colaborador";
 }
 
-<h1 class="display-4">Criar</h1>
+<h1 class="display-4">Criar novo colaborador</h1>
+
+<div class="form-floating mb-3">
+    <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+    <label for="floatingInput">Nome Completo</label>
+</div>
+<div class="form-floating mb-3">
+    <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+    <label for="floatingInput">Empresa</label>
+</div>
+<div class="form-floating mb-3">
+    <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+    <label for="floatingInput">Email</label>
+</div>
+<div class="form-floating mb-3">
+    <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+    <label for="floatingInput">Departamento</label>
+</div>
+<div class="form-floating mb-3">
+    <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+    <label for="floatingInput">Cargo</label>
+</div>
+<div class="form-floating mb-3">
+    <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+    <label for="floatingInput">Estado Civil</label>
+</div>
+<a type="button" class="btn btn-success" asp-controller="Colaboradores" asp-action="Criar">Adicionar</a>
+<a type="button" class="btn btn-primary" asp-controller="Colaboradores" asp-action="Index">Voltar</a>

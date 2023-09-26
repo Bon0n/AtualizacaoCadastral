@@ -1,7 +1,15 @@
+using AtualizacaoCadastral.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddEntityFrameworkNpgsql()
+    .AddDbContext<AttDbContext>(o =>
+    {
+        o.UseNpgsql(builder.Configuration.GetConnectionString("Database"));
+    });
 
 var app = builder.Build();
 
