@@ -1,5 +1,5 @@
 ﻿using AtualizacaoCadastral.Data;
-using AtualizacaoCadastral.ViewModels;
+using AtualizacaoCadastral.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.DirectoryServices;
 using System.DirectoryServices.AccountManagement;
@@ -18,11 +18,11 @@ namespace AtualizacaoCadastral.Controllers
             var userPrincipal = new UserPrincipal(principalContext);
 
             var searcher = new PrincipalSearcher(userPrincipal);
-            var colaboradores = new List<ColaboradorViewModel>();
+            var colaboradores = new List<ColaboradorModel>();
             foreach(var result in searcher.FindAll())
             {
                 directoryEntry = result.GetUnderlyingObject() as DirectoryEntry;
-                var colaborador = new ColaboradorViewModel
+                var colaborador = new ColaboradorModel
                 (
                     directoryEntry.Properties["givenName"].Value.ToString(),
                     directoryEntry.Properties["samAccountName"].Value.ToString(),

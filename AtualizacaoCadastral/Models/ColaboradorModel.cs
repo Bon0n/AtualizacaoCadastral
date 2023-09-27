@@ -11,5 +11,14 @@
 
         public string EstadoCivil { get; private set; }
 
+        public ColaboradorModel(string nome, string email, string empresa, string departamento, string cargo, string estadoCivil)
+        {
+            Nome = nome;
+            Email = email;
+            Empresa = empresa;
+            Departamento = departamento;
+            Cargo = cargo;
+            EstadoCivil = estadoCivil;
+        }
     }
 }
