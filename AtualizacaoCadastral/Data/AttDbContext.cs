@@ -10,6 +10,6 @@ namespace AtualizacaoCadastral.Data
             
         }
 
-        public DbSet<ColaboradorModel> Colaboradores { get; set; }
+        public DbSet<ColaboradorViewModel> Colaboradores { get; set; }
     }
 }

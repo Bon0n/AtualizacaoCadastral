@@ -70,3 +70,14 @@ C:\Users\bonon\source\repos\AtualizacaoCadastral\AtualizacaoCadastral\bin\Debug\
 C:\Users\bonon\source\repos\AtualizacaoCadastral\AtualizacaoCadastral\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\bonon\source\repos\AtualizacaoCadastral\AtualizacaoCadastral\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\bonon\source\repos\AtualizacaoCadastral\AtualizacaoCadastral\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Documentos\Projetos\AtualizacaoCadastral\AtualizacaoCadastral\obj\Debug\net6.0\AtualizacaoCadastral.csproj.AssemblyReference.cache
+C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Documentos\Projetos\AtualizacaoCadastral\AtualizacaoCadastral\obj\Debug\net6.0\AtualizacaoCadastral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Documentos\Projetos\AtualizacaoCadastral\AtualizacaoCadastral\obj\Debug\net6.0\AtualizacaoCadastral.AssemblyInfoInputs.cache
+C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Documentos\Projetos\AtualizacaoCadastral\AtualizacaoCadastral\obj\Debug\net6.0\AtualizacaoCadastral.AssemblyInfo.cs
+C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Documentos\Projetos\AtualizacaoCadastral\AtualizacaoCadastral\obj\Debug\net6.0\AtualizacaoCadastral.csproj.CoreCompileInputs.cache
+C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Documentos\Projetos\AtualizacaoCadastral\AtualizacaoCadastral\obj\Debug\net6.0\AtualizacaoCadastral.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Documentos\Projetos\AtualizacaoCadastral\AtualizacaoCadastral\obj\Debug\net6.0\AtualizacaoCadastral.RazorAssemblyInfo.cache
+C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Documentos\Projetos\AtualizacaoCadastral\AtualizacaoCadastral\obj\Debug\net6.0\AtualizacaoCadastral.RazorAssemblyInfo.cs
+C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Documentos\Projetos\AtualizacaoCadastral\AtualizacaoCadastral\obj\Debug\net6.0\AtualizacaoCadastral.dll
+C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Documentos\Projetos\AtualizacaoCadastral\AtualizacaoCadastral\obj\Debug\net6.0\refint\AtualizacaoCadastral.dll
+C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Documentos\Projetos\AtualizacaoCadastral\AtualizacaoCadastral\obj\Debug\net6.0\AtualizacaoCadastral.pdb
