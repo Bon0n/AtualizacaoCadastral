@@ -142,3 +142,4 @@ C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Do
 C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Documentos\Projetos\AtualizacaoCadastral\AtualizacaoCadastral\obj\Debug\net6.0\AtualizacaoCadastral.csproj.CopyComplete
 C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Documentos\Projetos\AtualizacaoCadastral\AtualizacaoCadastral\obj\Debug\net6.0\AtualizacaoCadastral.genruntimeconfig.cache
 C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Documentos\Projetos\AtualizacaoCadastral\AtualizacaoCadastral\obj\Debug\net6.0\ref\AtualizacaoCadastral.dll
+C:\Users\andrei.oliveira\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\Documentos\Projetos\AtualizacaoCadastral\AtualizacaoCadastral\obj\Debug\net6.0\scopedcss\Views\Shared\_LayoutLogin.cshtml.rz.scp.css

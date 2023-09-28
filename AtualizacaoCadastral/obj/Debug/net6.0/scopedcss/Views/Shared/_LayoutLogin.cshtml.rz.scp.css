@@ -1,4 +1,4 @@
-.gradient-custom-2 {
+.gradient-custom-2[b-50x4zzg17e] {
     /* fallback for old browsers */
     background: #fccb90;
     /* Chrome 10-25, Safari 5.1-6 */
@@ -8,18 +8,18 @@
 }
 
 @media (min-width: 768px) {
-    .gradient-form {
+    .gradient-form[b-50x4zzg17e] {
         height: 100vh !important;
     }
 }
 
 @media (min-width: 769px) {
-    .gradient-custom-2 {
+    .gradient-custom-2[b-50x4zzg17e] {
         border-top-right-radius: .3rem;
         border-bottom-right-radius: .3rem;
     }
 }
 
-.logo{
+.logo[b-50x4zzg17e] {
     margin-bottom: 3em;
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hTEe4uvxtucjuWEYs2qWpTI2qkgRhpOjZe/TsIBOW88=",
+  "Hash": "OHz9J6u+Hu0m8aQHtNI8qrPTHJTOIyTzN7oRr+lafMU=",
   "Source": "AtualizacaoCadastral",
   "BasePath": "_content/AtualizacaoCadastral",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AtualizacaoCadastral.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\css\\login.css",
+      "SourceId": "AtualizacaoCadastral",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\",
+      "BasePath": "_content/AtualizacaoCadastral",
+      "RelativePath": "css/login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
       "Identity": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\css\\site.css",
       "SourceId": "AtualizacaoCadastral",
       "SourceType": "Discovered",
@@ -85,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\img\\logo-fitcard.png",
       "SourceId": "AtualizacaoCadastral",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\",
       "BasePath": "_content/AtualizacaoCadastral",
-      "RelativePath": "js/bootstrap.min.js",
+      "RelativePath": "img/logo-fitcard.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,24 +116,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\js\\jquery.min.js",
-      "SourceId": "AtualizacaoCadastral",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\",
-      "BasePath": "_content/AtualizacaoCadastral",
-      "RelativePath": "js/jquery.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\img\\logo-fitcard.png"
     },
     {
       "Identity": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\js\\site.js",

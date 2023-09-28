@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\AtualizacaoCadastral.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
       "Id": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -13,12 +17,8 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\js\\jquery.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+      "Id": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\img\\logo-fitcard.png",
+      "PackagePath": "staticwebassets\\img\\logo-fitcard.png"
     },
     {
       "Id": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\js\\site.js",
