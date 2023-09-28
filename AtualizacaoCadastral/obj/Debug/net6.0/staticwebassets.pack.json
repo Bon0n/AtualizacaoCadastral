@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
       "Id": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

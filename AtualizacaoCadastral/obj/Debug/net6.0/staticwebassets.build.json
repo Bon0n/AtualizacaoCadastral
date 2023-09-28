@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m6DJQqcW6yqMlQE0DYlMFn7AFRKq6nCzNOTBn2pMdO0=",
+  "Hash": "hTEe4uvxtucjuWEYs2qWpTI2qkgRhpOjZe/TsIBOW88=",
   "Source": "AtualizacaoCadastral",
   "BasePath": "_content/AtualizacaoCadastral",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\js\\bootstrap.min.js",
+      "SourceId": "AtualizacaoCadastral",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\",
+      "BasePath": "_content/AtualizacaoCadastral",
+      "RelativePath": "js/bootstrap.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\js\\jquery.min.js",
+      "SourceId": "AtualizacaoCadastral",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\",
+      "BasePath": "_content/AtualizacaoCadastral",
+      "RelativePath": "js/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
       "Identity": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\wwwroot\\js\\site.js",

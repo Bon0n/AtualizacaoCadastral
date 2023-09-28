@@ -28,9 +28,6 @@
         public object EmailCorporativo { get; private set; }
         public object Departamento { get; private set; }
         public object Cargo { get; private set; }
-
-        
-
         public ColaboradorModel()
         {
             
@@ -43,6 +40,11 @@
             Departamento = departamento;
             Cargo = cargo;
             EstadoCivil = estadoCivil;
+        }
+
+        private void Validar(object nome, string cpf, object empresa, string gerente, string estadoCivil)
+        {
+            
         }
         
     }
