@@ -6,7 +6,7 @@ namespace AtualizacaoCadastral.Models
     {
         public string Usuario { get; set; }
         public string Senha { get; set; }
-        public string MensagemLogin { get; private set; }
+        public string MensagemLogin { get; set; }
 
         public string Logar()
         {

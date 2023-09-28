@@ -8,12 +8,22 @@ namespace AtualizacaoCadastral.Controllers
 {
     public class Colaboradores : Controller
     {
+        private readonly IHttpContextAccessor _contextAccessor;
+        public Colaboradores(IHttpContextAccessor contextAccessor)
+        {
+
+            _contextAccessor = contextAccessor;
+
+        }
         private DirectoryEntry directoryEntry = AttAdContext.CreateDirectoryEntry();
-        
-        private DirectorySearcher directorySearcher = new DirectorySearcher();
-        private PrincipalContext ad = new PrincipalContext(ContextType.Domain);
         public ActionResult Index()
         {
+            string username = _contextAccessor.HttpContext.Session.GetString("username");
+            if(string.IsNullOrWhiteSpace(username))
+            {
+                return RedirectToAction("Index", "Login");
+            }
+#pragma warning disable CA1416 // Validate platform compatibility
             PrincipalContext context = new PrincipalContext
             (
                 ContextType.Domain,
@@ -23,6 +33,7 @@ namespace AtualizacaoCadastral.Controllers
                 "services.facilitador",
                 "bed#DONe@Kp!"
             );
+#pragma warning restore CA1416 // Validate platform compatibility
             var userPrincipal = new UserPrincipal(context);
             var searcher = new PrincipalSearcher(userPrincipal);
 

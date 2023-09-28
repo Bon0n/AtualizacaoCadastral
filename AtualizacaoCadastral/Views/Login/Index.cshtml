@@ -1,8 +1,12 @@
-﻿@model LoginModel
+﻿@inject IHttpContextAccessor context
+@model LoginModel
 @{
     Layout = "_LayoutLogin";
     ViewData["Title"] = "Login";
 }
+<head>
+    <title>Login</title>
+</head>
 <body>
     <main>
         <section class="h-100 gradient-form" style="background-color: #eee;">
