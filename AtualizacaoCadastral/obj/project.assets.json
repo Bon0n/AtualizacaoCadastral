@@ -1565,19 +1565,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bonon\\.nuget\\packages\\": {}
+    "C:\\Users\\andrei.oliveira\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bonon\\source\\repos\\AtualizacaoCadastral\\AtualizacaoCadastral\\AtualizacaoCadastral.csproj",
+      "projectUniqueName": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\AtualizacaoCadastral.csproj",
       "projectName": "AtualizacaoCadastral",
-      "projectPath": "C:\\Users\\bonon\\source\\repos\\AtualizacaoCadastral\\AtualizacaoCadastral\\AtualizacaoCadastral.csproj",
-      "packagesPath": "C:\\Users\\bonon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bonon\\source\\repos\\AtualizacaoCadastral\\AtualizacaoCadastral\\obj\\",
+      "projectPath": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\AtualizacaoCadastral.csproj",
+      "packagesPath": "C:\\Users\\andrei.oliveira\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andrei.oliveira\\OneDrive - Fitcard Locacao de Equipamentos LTDA - ME\\Documentos\\Projetos\\AtualizacaoCadastral\\AtualizacaoCadastral\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bonon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\andrei.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

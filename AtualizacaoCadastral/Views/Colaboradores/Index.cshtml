@@ -1,56 +1,39 @@
-﻿@model ColaboradorModel
+﻿@model List<ColaboradorModel>
 @{
     ViewData["Title"] = "Colaboradores";
 }
 
 <h1 class="display-4">Colaboradores</h1>
-<h2>@Model.Nome</h2>
 <a type="button" class="btn btn-success" asp-controller="Colaboradores" asp-action="Criar">Criar</a>
 <table class="table">
     <thead>
         <tr>
             <th scope="col">#</th>
-            <th scope="col">First</th>
-            <th scope="col">Last</th>
-            <th scope="col">Handle</th>
+            <th scope="col">Nome</th>
+            <th scope="col">Empresa</th>
+            <th scope="col">Email</th>
+            <th scope="col">Usuario</th>
+            <th scope="col">Departamento</th>
             <th scope="col"></th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <th scope="row">1</th>
-            <td>Mark</td>
-            <td>Otto</td>
-            <td>mdo</td>
-            <td>
-                <div class="btn-group" role="group" aria-label="Basic mixed styles example">
-                    <button type="button" class="btn btn-danger">Remover</button>
-                    <button type="button" class="btn btn-primary">Editar</button>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <th scope="row">2</th>
-            <td>Jacob</td>
-            <td>Thornton</td>
-            <td>fat</td>
-            <td>
-                <div class="btn-group" role="group" aria-label="Basic mixed styles example">
-                    <button type="button" class="btn btn-danger">Remover</button>
-                    <button type="button" class="btn btn-primary">Editar</button>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <th scope="row">3</th>
-            <td colspan="2">Larry the Bird</td>
-            <td>twitter</td>
-            <td>
-                <div class="btn-group" role="group" aria-label="Basic mixed styles example">
-                    <button type="button" class="btn btn-danger">Remover</button>
-                    <button type="button" class="btn btn-primary">Editar</button>
-                </div>
-            </td>
-        </tr>
+        @foreach(var t in @Model)
+        {
+            <tr>
+                <th scope="row">1</th>
+                <td>@t.Nome</td>
+                <td>@t.Empresa</td>
+                <td>@t.Email</td>
+                <td>@t.Cargo</td>
+                <td>@t.Departamento</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic mixed styles example">
+                        <button type="button" class="btn btn-danger">Remover</button>
+                        <button type="button" class="btn btn-primary">Editar</button>
+                    </div>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
