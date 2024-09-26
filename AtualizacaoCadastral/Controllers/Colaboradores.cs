@@ -30,8 +30,8 @@ namespace AtualizacaoCadastral.Controllers
                 "networksecuritybr.local",
                 "dc=networksecuritybr,dc=local",
                 ContextOptions.Negotiate,
-                "services.facilitador",
-                "bed#DONe@Kp!"
+                "user",
+                "senha"
             );
 #pragma warning restore CA1416 // Validate platform compatibility
             var userPrincipal = new UserPrincipal(context);
