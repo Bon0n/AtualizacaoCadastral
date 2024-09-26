@@ -25,8 +25,8 @@ namespace AtualizacaoCadastral.Data
                     "networksecuritybr.local", 
                     "dc=networksecuritybr,dc=local", 
                     ContextOptions.Negotiate, 
-                    "services.facilitador", 
-                    "bed#DONe@Kp!"
+                    "user", 
+                    "senha"
                 );
             return principalContext;
         }
